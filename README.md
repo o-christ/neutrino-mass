@@ -9,8 +9,11 @@ Comparison of direct laboratory measurements (KATRIN) and cosmological constrain
 
 # Topics
 Tritium β-spectroscopy & KATRIN experiment
+
 Cosmic structure formation & free-streaming
+
 Seesaw mechanism
+
 Sterile neutrinos as dark matter candidates (TRISTAN)
 
 # Author
