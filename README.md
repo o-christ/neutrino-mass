@@ -3,6 +3,7 @@ This repository contains two scientific works on neutrino mass, created during t
 # Contents
 **Poster** – The Mass of the Neutrino
 Overview of the experimental determination of neutrino mass: β-decay, the KATRIN experiment (MAC-E filter, current limit mᵥ < 0.45 eV), and the seesaw mechanism.
+
 **Proceeding** – Neutrino Mass Determination: Comparing KATRIN Spectroscopy and Cosmological Structure Formation
 Comparison of direct laboratory measurements (KATRIN) and cosmological constraints (Planck/DESI: Σmᵥ < 0.12 eV), and their implications for physics beyond the Standard Model.
 
